@@ -128,7 +128,7 @@ Ce projet est sous licence [MIT](LICENSE) (à adapter selon votre cas).
 
 ## 🙏 Remerciements
 
-Merci à tous les membres de l’équipe, aux encadrants et à l’école Estiam pour leur soutien lors de ce hackathon !
+Merci à tous les membres de l’équipe, aux encadrants et à l’école Estiam pour leur soutien lors de cet hackathon !
 
 ---
 
